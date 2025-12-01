@@ -1,7 +1,6 @@
 # 🎄 Advent of Code 2025
 
 This repository contains my C++ solutions for the Advent of Code 2025 challenges.  
-👤 Author: Mustafa Kayabaş | 01/12/2025
 
 ## 📅 Days Overview
 
