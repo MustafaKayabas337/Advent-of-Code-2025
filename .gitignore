@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-*.txt
-
 =======
 # Prerequisites
 *.d
->>>>>>> 3bf08e5e99cb47aa1313c13fbc0a0b37956668a9
 
 # Compiled Object files
 *.slo
@@ -43,8 +39,9 @@
 *.app
 
 # debug information files
-<<<<<<< HEAD
 *.dwo
 =======
 *.dwo
->>>>>>> 3bf08e5e99cb47aa1313c13fbc0a0b37956668a9
+
+# Text Files
+*.txt
