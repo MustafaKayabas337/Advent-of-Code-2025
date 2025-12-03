@@ -24,7 +24,7 @@ Each day contains solutions for **Part 1 (Silver)** and **Part 2 (Gold)**.
 ## 📝 Day 3
 
 - `silver.cpp` – solution for **Part 1** ⏱ 18 min 35 sec
-- `gold.cpp` – still working on it...
+- `gold.cpp` – solution for **Part 2** ⏱ 56 min 29 sec
 
 ## 💡 Notes
 
