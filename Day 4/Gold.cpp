@@ -1,6 +1,6 @@
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    ~ 🎄 Advent of Code 2025 - Day 4 | Part 2 🎄
-   ~ 👤 Mustafa Kayabaş | 05/12/2025
+   ~ 👤 Mustafa Kayabaş | 04/12/2025
    ~ ⏱ Writing time: 3 min 48 sec
    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 #include<iostream>
