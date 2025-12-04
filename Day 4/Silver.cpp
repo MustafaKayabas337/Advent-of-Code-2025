@@ -1,8 +1,12 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   ~ 🎄 Advent of Code 2025 - Day 2 | Part 1 🎄
+   ~ 👤 Mustafa Kayabaş | 05/12/2025
+   ~ ⏱ Writing time: 15 min 45 sec
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 #include<iostream>
 #include<fstream>
 #include<vector>
 using namespace std;
-
 
 int main()
 {
