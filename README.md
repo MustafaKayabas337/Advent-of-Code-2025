@@ -8,6 +8,7 @@ This repository contains my C++ solutions for the Advent of Code 2025 challenges
 - 🎁 [Day 2](./Day%202)
 - 🛷 [Day 3](./Day%203)
 - 🎅 [Day 4](./Day%204)
+- 🧣 [Day 5](./Day%205)
 
 Each day contains solutions for **Part 1 (Silver)** and **Part 2 (Gold)**.
 
@@ -31,6 +32,11 @@ Each day contains solutions for **Part 1 (Silver)** and **Part 2 (Gold)**.
 
 - `silver.cpp` – solution for **Part 1** ⏱ 15 min 45 sec
 - `gold.cpp` – solution for **Part 2** ⏱ 3 min 48 sec
+
+## 📝 Day 5
+
+- `silver.cpp` – solution for **Part 1** ⏱ 18 min 8 sec
+- `gold.cpp` – solution for **Part 2** ⏱ 1 hr 0 min 32 sec
 
 ## 💡 Notes
 
