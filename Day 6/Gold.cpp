@@ -5,22 +5,8 @@
    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 #include<iostream>
 #include<fstream>
-#include<sstream>
 #include<vector>
-#include<algorithm>
 using namespace std;
-
-vector<string> split(const string& s, char delimiter)                                                                                                                          
-{                                                                                                                                                                                             
-   vector<string> splits;                                                                                                                                                           
-   string split;                                                                                                                                                                         
-   istringstream ss(s);                                                                                                                                                                  
-   while (getline(ss, split, delimiter))                                                                                                                                                 
-   {                                                                                                                                                                                          
-      splits.push_back(split);                                                                                                                                                                
-   }                                                                                                                                                                                          
-   return splits;                                                                                                                                                                             
-}
 
 int main()
 {
