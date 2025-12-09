@@ -11,6 +11,7 @@ This repository contains my C++ solutions for the Advent of Code 2025 challenges
 - 🧣 [Day 5](./Day%205)
 - 🧦 [Day 6](./Day%206)
 - ☃️ [Day 7](./Day%207)
+- ❄️ [Day 8](./Day%208)
 
 Each day contains solutions for **Part 1 (Silver)** and **Part 2 (Gold)**.
 
