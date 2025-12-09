@@ -50,6 +50,11 @@ Each day contains solutions for **Part 1 (Silver)** and **Part 2 (Gold)**.
 - `silver.cpp` – solution for **Part 1** ⏱ 22 min 30 sec // 363.4 µs
 - `gold.cpp` – solution for **Part 2** ⏱ 1 hr 1 min 8 sec // 458.4 µs
 
+## 📝 Day 8
+
+- `silver.cpp` – solution for **Part 1** ⏱ 2 hr 32 min 58 sec // 45 ms
+- `gold.cpp` – solution for **Part 2** ⏱ 3 min 1 sec // 45 ms
+
 ## 💡 Notes
 
 - All solutions are written in **C++**.  
